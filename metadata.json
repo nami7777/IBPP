@@ -1,0 +1,5 @@
+{
+  "name": "IB Past Paper Extractor",
+  "description": "A comprehensive tool to organize, tag, study, and export IB past paper questions with image support and JSON portability.",
+  "requestFramePermissions": []
+}
